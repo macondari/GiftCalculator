@@ -1,0 +1,44 @@
+\\regulus\users$\giancaterinam\Visual Studio 2010\Projects\assign for total christmas gifts\assign for total christmas gifts\bin\Release\assign for total christmas gifts.exe
+\\regulus\users$\giancaterinam\Visual Studio 2010\Projects\assign for total christmas gifts\assign for total christmas gifts\bin\Release\assign for total christmas gifts.pdb
+\\regulus\users$\giancaterinam\Visual Studio 2010\Projects\assign for total christmas gifts\assign for total christmas gifts\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+\\regulus\users$\giancaterinam\Visual Studio 2010\Projects\assign for total christmas gifts\assign for total christmas gifts\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+\\regulus\users$\giancaterinam\Visual Studio 2010\Projects\assign for total christmas gifts\assign for total christmas gifts\obj\x86\Release\assign for total christmas gifts.csproj.GenerateResource.Cache
+\\regulus\users$\giancaterinam\Visual Studio 2010\Projects\assign for total christmas gifts\assign for total christmas gifts\obj\x86\Release\assign for total christmas gifts.exe
+\\regulus\users$\giancaterinam\Visual Studio 2010\Projects\assign for total christmas gifts\assign for total christmas gifts\obj\x86\Release\assign for total christmas gifts.pdb
+W:\Visual Studio 2010\Projects\assign for total christmas gifts\assign for total christmas gifts\obj\x86\Release\assign for total christmas gifts.exe
+W:\Visual Studio 2010\Projects\assign for total christmas gifts\assign for total christmas gifts\obj\x86\Release\assign for total christmas gifts.pdb
+W:\Visual Studio 2010\Projects\assign for total christmas gifts\assign for total christmas gifts\bin\Release\assign for total christmas gifts.exe
+W:\Visual Studio 2010\Projects\assign for total christmas gifts\assign for total christmas gifts\bin\Release\assign for total christmas gifts.pdb
+W:\Visual Studio 2010\Projects\assign for total christmas gifts\assign for total christmas gifts\obj\x86\Release\assign for total christmas gifts.csprojResolveAssemblyReference.cache
+W:\Visual Studio 2010\Projects\assign for total christmas gifts\assign for total christmas gifts\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+W:\Visual Studio 2010\Projects\assign for total christmas gifts\assign for total christmas gifts\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+W:\Visual Studio 2010\Projects\assign for total christmas gifts\assign for total christmas gifts\obj\x86\Release\assign for total christmas gifts.csproj.GenerateResource.Cache
+W:\Visual Studio 2010\Projects\2o assign for total christmas gifts\assign for total christmas gifts\obj\x86\Release\assign for total christmas gifts.exe
+W:\Visual Studio 2010\Projects\2o assign for total christmas gifts\assign for total christmas gifts\obj\x86\Release\assign for total christmas gifts.pdb
+W:\Visual Studio 2010\Projects\2o assign for total christmas gifts\assign for total christmas gifts\bin\Release\assign for total christmas gifts.exe
+W:\Visual Studio 2010\Projects\2o assign for total christmas gifts\assign for total christmas gifts\bin\Release\assign for total christmas gifts.pdb
+W:\Visual Studio 2010\Projects\2o assign for total christmas gifts\assign for total christmas gifts\obj\x86\Release\assign for total christmas gifts.csprojResolveAssemblyReference.cache
+W:\Visual Studio 2010\Projects\2o assign for total christmas gifts\assign for total christmas gifts\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+W:\Visual Studio 2010\Projects\2o assign for total christmas gifts\assign for total christmas gifts\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+W:\Visual Studio 2010\Projects\2o assign for total christmas gifts\assign for total christmas gifts\obj\x86\Release\assign for total christmas gifts.csproj.GenerateResource.Cache
+W:\Visual Studio 2010\Projects\2o assign for total christmas gifts - Copy\assign for total christmas gifts\obj\x86\Release\assign for total christmas gifts.exe
+W:\Visual Studio 2010\Projects\2o assign for total christmas gifts - Copy\assign for total christmas gifts\obj\x86\Release\assign for total christmas gifts.pdb
+D:\ICS3U1\assignment 3a\assign for total christmas gifts\bin\Release\assign for total christmas gifts.exe
+D:\ICS3U1\assignment 3a\assign for total christmas gifts\bin\Release\assign for total christmas gifts.pdb
+D:\ICS3U1\assignment 3a\assign for total christmas gifts\obj\x86\Release\assign for total christmas gifts.csprojAssemblyReference.cache
+D:\ICS3U1\assignment 3a\assign for total christmas gifts\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+D:\ICS3U1\assignment 3a\assign for total christmas gifts\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\ICS3U1\assignment 3a\assign for total christmas gifts\obj\x86\Release\assign for total christmas gifts.csproj.GenerateResource.cache
+D:\ICS3U1\assignment 3a\assign for total christmas gifts\obj\x86\Release\assign for total christmas gifts.csproj.CoreCompileInputs.cache
+D:\ICS3U1\assignment 3a\assign for total christmas gifts\obj\x86\Release\assign for total christmas gifts.exe
+D:\ICS3U1\assignment 3a\assign for total christmas gifts\obj\x86\Release\assign for total christmas gifts.pdb
+D:\Old USB stuff\MICHAELA\ICS3U1\assignment 3a\assign for total christmas gifts\bin\Release\assign for total christmas gifts.exe.config
+D:\Old USB stuff\MICHAELA\ICS3U1\assignment 3a\assign for total christmas gifts\bin\Release\assign for total christmas gifts.exe
+D:\Old USB stuff\MICHAELA\ICS3U1\assignment 3a\assign for total christmas gifts\bin\Release\assign for total christmas gifts.pdb
+D:\Old USB stuff\MICHAELA\ICS3U1\assignment 3a\assign for total christmas gifts\obj\x86\Release\assign for total christmas gifts.csproj.AssemblyReference.cache
+D:\Old USB stuff\MICHAELA\ICS3U1\assignment 3a\assign for total christmas gifts\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+D:\Old USB stuff\MICHAELA\ICS3U1\assignment 3a\assign for total christmas gifts\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\Old USB stuff\MICHAELA\ICS3U1\assignment 3a\assign for total christmas gifts\obj\x86\Release\assign for total christmas gifts.csproj.GenerateResource.cache
+D:\Old USB stuff\MICHAELA\ICS3U1\assignment 3a\assign for total christmas gifts\obj\x86\Release\assign for total christmas gifts.csproj.CoreCompileInputs.cache
+D:\Old USB stuff\MICHAELA\ICS3U1\assignment 3a\assign for total christmas gifts\obj\x86\Release\assign for total christmas gifts.exe
+D:\Old USB stuff\MICHAELA\ICS3U1\assignment 3a\assign for total christmas gifts\obj\x86\Release\assign for total christmas gifts.pdb
